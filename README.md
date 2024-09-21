@@ -158,7 +158,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ## Authors
 
-- **Your Name** - [Your GitHub Profile](https://github.com/your-username)
+- **Your Name** - [Apratim Kanth](https://github.com/apratimkanth)
 
 ---
 
